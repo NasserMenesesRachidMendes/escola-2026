@@ -1,4 +1,4 @@
-package br.edu.ifmg.escola_2026;
+package br.edu.ifmg.com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
